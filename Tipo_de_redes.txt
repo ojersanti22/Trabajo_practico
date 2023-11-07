@@ -1,0 +1,9 @@
+1-Red Lan(Local Area Network): Una red que abarca una extension 
+  geografica que no supera la de un edificio o una casa.
+2-Red Man(Metropolitan area network): Esta red es de alcance metropolitano, 
+  osea que puede unir ordenadores en una misma ciudad o provincia.
+3-Red Pan(Personal Area Network): Esta red es de uso personal, une los 
+  dispositovos cercanos a un ordenador(impresora, fax, etc)
+4-Red Wan(Wide Area Network): Esta es una red que trasiende el tamaño de 
+  las ciudades e incluso de continentes, es una red de alcance global 
+  que podria unir un ordenador en china con uno en argentina.
